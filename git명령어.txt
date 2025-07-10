@@ -1,0 +1,9 @@
+git init : 초기화
+git status: 상태확인
+.gitignore : 업로드 제외 목록
+git add -A : 스테이징에 추가하기
+git commit -m "커밋내용" : 커밋하기
+
+
+	git config --global user.email "byungmoo123@gmail.com"
+	git config --global user.name "GreenDolphin1234"
